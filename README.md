@@ -6,7 +6,6 @@ Installation
 Install the required packages using pip:
 
 bash
-
 pip install assemblyai transformers
 
 Usage
