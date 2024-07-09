@@ -1,4 +1,4 @@
-#Speech-to-Text and Summarization for Recorded Phone Calls
+# Speech-to-Text and Summarization for Recorded Phone Calls
 
 This project aims to transcribe a recorded phone call from a potential customer using AssemblyAI's speech-to-text API and summarize the main points of the conversation using Hugging Face's Transformers library.
 Installation
